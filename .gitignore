@@ -1,2 +1,2 @@
-MatrixTest
-VectorTest
+*.o
+LinearAlgebraTest
