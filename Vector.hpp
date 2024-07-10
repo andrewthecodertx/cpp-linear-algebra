@@ -2,6 +2,7 @@
 #define VECTOR_H
 
 #include <vector>
+#include <cstddef>
 
 class Vector {
 private:
