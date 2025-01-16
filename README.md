@@ -18,10 +18,13 @@ A lightweight and simple C++ library for performing linear algebra operations, d
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/andrewthecodertx/cpp-linear-algebra.git
    ```
+
 2. Navigate to the project directory:
+
    ```bash
    cd cpp-linear-algebra
    ```
@@ -87,7 +90,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Created by [Andrew the Coder](https://andrewthecoder.xyz).
+Created by [ANDREWtheCODER](https://andrewthecoder.xyz).
 
 ---
-
